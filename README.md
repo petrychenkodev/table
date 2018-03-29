@@ -1,1 +1,1 @@
-[таблица в которую можно влюбиться] (https://petrychenkodev.github.io/table/table.html)
+[таблица] (https://petrychenkodev.github.io/table/table.html)
